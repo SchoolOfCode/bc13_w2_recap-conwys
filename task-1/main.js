@@ -30,4 +30,3 @@ for (let i=0; i<celebs.length; i++) {
 }
 console.log(vowelCelebs);
 
-//task 2
